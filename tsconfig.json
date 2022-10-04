@@ -5,6 +5,7 @@
     "module": "esnext",
     "moduleResolution": "node",
     "strict": true,
+    "forceConsistentCasingInFileNames": true,
     "jsx": "preserve",
     "sourceMap": true,
     "resolveJsonModule": true,
